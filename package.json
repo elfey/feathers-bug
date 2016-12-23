@@ -1,0 +1,31 @@
+{
+  "name": "feathers-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "cors": "^2.8.1",
+    "feathers": "^2.0.2",
+    "feathers-authentication": "^1.0.2",
+    "feathers-authentication-jwt": "^0.3.0",
+    "feathers-authentication-local": "^0.3.2",
+    "feathers-configuration": "^0.4.0",
+    "feathers-errors": "^2.5.0",
+    "feathers-hooks": "^1.6.1",
+    "feathers-hooks-common": "^2.0.3",
+    "feathers-profiler": "^0.1.4",
+    "feathers-rest": "^1.5.2",
+    "feathers-socketio": "^1.4.2",
+    "helmet": "^3.1.0",
+    "mongoose": "^4.6.7",
+    "passport": "^0.3.2",
+    "winston": "^2.3.0"
+  }
+}
